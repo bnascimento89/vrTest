@@ -1,0 +1,10 @@
+require 'byebug'
+require 'cucumber'
+require 'data_magic'
+require 'httparty'
+require 'json'
+require 'jsonpath'
+require 'json-schema'
+require 'rspec'
+require 'rspec/expectations'
+# require File.join(File.dirname(__FILE__), "json_schema","zip_code.rb")
