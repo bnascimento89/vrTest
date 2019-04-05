@@ -7,4 +7,3 @@ require 'jsonpath'
 require 'json-schema'
 require 'rspec'
 require 'rspec/expectations'
-
