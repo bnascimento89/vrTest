@@ -67,3 +67,4 @@ class ZipCode
         }
     end
 end
+
